@@ -1,0 +1,146 @@
+aside {
+  float: right;
+  position: relative;
+  bottom: 430px;
+}
+
+.footpic {
+  position: relative;
+  left: 422px;
+  color: #FFFFFF;
+}
+
+.head {
+  color: #008099;
+}
+
+i {
+  color: #1C7FA6;
+}
+blockquote {
+  color: #1C7FA6;
+  font-size: 22px;
+}
+h3.nav {
+  color: #006B8F;
+
+}
+
+h3 {
+  padding: 1.5rem;
+  margin: 1rem;
+  color: #000000;
+
+}
+
+
+.main {
+  padding-left: 190px;
+  margin-top: 55px;
+  /* clearfix: left; */
+
+
+
+}
+
+h5 {
+  color: #ffffff;
+  position: relative;
+  left: 426px;
+}
+
+.hidden {
+  position: relative;
+  left: -1000px;
+  top: 27px;
+  color: #000000;
+}
+
+.hidden:focus {
+  left: 0;
+}
+
+h6 {
+  color: #ffffff;
+  position: relative;
+  left: 496px;
+
+}
+
+footer {
+  background-color: #696969;
+  padding: 115px 115px 115px 115px;
+  margin-left: -9px;
+  margin-right: -9px;
+  position: relative;
+  top: 275px;
+
+
+}
+
+
+figure {
+  position: relative;
+  right: 39.5px;
+}
+
+body {
+  font-family: sans-serif;
+
+}
+
+a {
+  color: #007EA8;
+}
+
+a[href="/Users/noahtesema/Desktop/Lesson4Assignment2/about.html"] {
+  color: #006B8F;
+}
+a[href="/Users/noahtesema/Desktop/Lesson4Assignment2/index.html"] {
+  color: #006B8F;
+}
+
+/* h3 .nav {  
+  color: pink;
+} */
+
+p {
+  color: 	#383838;
+  font-size: 14px;
+}
+
+header {
+  /* border: 2px solid  black; */
+  margin: -8px;
+  background-color: #0093AF;
+  color: #1F1F1F;
+  padding-left: 190px;
+  padding-top: 50px;
+  padding-bottom: 27px;
+}
+
+.text {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+
+nav {
+  background-color: #E0E0E0;
+  padding: 5px 5px 5px 5px;
+  position: relative;
+  right: 8px;
+  top: 7px;
+  padding-left: 190px;
+  margin-right: -1em;
+  font-size: 15px;
+
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
